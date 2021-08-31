@@ -2,7 +2,7 @@
 *.d
 
 hello_world
-
+.DS_Store
 # Compiled Object files
 *.slo
 *.lo
